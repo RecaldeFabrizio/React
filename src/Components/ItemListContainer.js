@@ -1,11 +1,11 @@
-const ItemListContainer = ({props}) => {
+const ItemListContainer = (props) => {
   return (
     <ul>
-        <il>{props.itemUno}</il>
-        <il>{props.itemDos}</il>
-        <il>{props.itemTres}</il>
+        <li>{props.itemsUno}</li>
+        <li>{props.itemsDos}</li>
+        <li>{props.itemsTres}</li>
     </ul>
   )
 }
 
-export default ItemListContainer
+export default ItemListContainer;
