@@ -6,7 +6,7 @@ const Products = [
         title:"ASUS ROG STRIX Z270F GAMING",
         description:"ASUS ROG STRIX Z270F GAMING",
         stock:5,
-        type:"Mothers",
+        type:"Mother",
         image: "https://lh3.googleusercontent.com/RK2JxKHee0_WIDxnEmeTLirvkGbyoUWPcI_CvWURoRFI9Aa05hfHllNbNJy48bDOEOulNoIDhLK8Cz807Q_Jz1fN7VhxGTFg7qipo5gBjg",
         price:80000,  
     },
